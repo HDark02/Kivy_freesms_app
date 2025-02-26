@@ -28,12 +28,13 @@ Sms_app est une application développée avec Kivy et KivyMD qui permet d'envoye
 
 2. Accédez au répertoire du projet :
    ```bash
-   cd votre-repo
+   cd Kivy_freesms_app
    ```
 
 3. Installez les dépendances requises :
    ```bash
-   pip install kivy kivymd plyer twilio
+   pip install "kivy[base]" kivy_examples --pre --extra-index-url https://kivy.org/downloads/simple
+   pip install kivymd==1.1.1 plyer twilio
    ```
 
 ## Utilisation
