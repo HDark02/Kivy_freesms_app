@@ -23,7 +23,7 @@ Sms_app est une application développée avec Kivy et KivyMD qui permet d'envoye
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git](https://github.com/HDark02/Kivy_freesms_app
+   git clone https://github.com/HDark02/Kivy_freesms_app
    ```
 
 2. Accédez au répertoire du projet :
